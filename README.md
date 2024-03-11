@@ -1,9 +1,3 @@
-
-Scenario:
-A team of enthusiastic data scientists embarked on a mission to develop a Note Taking Application using Python, Flask, and HTML. However, their lack of experience in backend development has led to challenges in making the application fully functional. Recognizing your proficiency in backend development, you have been tasked with fixing the broken code and ensuring the application works seamlessly.
-
-Task:
-Refactor the existing codebase and ensure the proper functioning of the Note Taking Application. Document all identified bugs during the debugging process. Remember, the task is not about recreating the app from scratch. Your goal is to fix the already existing codebase and make the application work as intended.
-
-More Details:
-The application's home route contains a text field and a button. Users can add a note, and all the notes should be displayed as an unordered list below the text field on the same page.
+- Conducted a thorough examination of the backend codebase of the Note Taking Application to identify areas of improvement and bugs. 
+  - Debugged and resolved errors to ensure that users can add notes successfully, and all notes are displayed correctly on the application's home page.
+  - Tested the application thoroughly to verify that all identified issues have been resolved and that the application functions as expected.
